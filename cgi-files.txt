@@ -1,3 +1,4 @@
+/cgi-bin/phpinfo.php
 /bin/14all-1.1.cgi
 /bin/14all.cgi
 /bin/a1disp3.cgi
