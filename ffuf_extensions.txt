@@ -1,0 +1,9 @@
+Web:            .php,.html,.htm,.asp,.aspx,.jsp,.js
+Backup/Old:     .bak,.old,.backup,.orig,.tmp,.swp,.swo
+Config:        	.env,.config,.conf,.ini,.yaml,.yml,.json,.xml,.web.config
+Database:	.sql,.db,.sqlite,.sqlite3
+Logs:       	.log,.txt,.debug
+Compact:	.zip,.rar,.7z,.tar,.tar.gz,.gz,.bz2
+Documents:	.pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx
+Source Map:	.map (muito valioso)
+Others:	        .inc,.md,.git,.svn,.htaccess,.htpasswd
