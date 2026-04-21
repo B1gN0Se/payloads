@@ -1,9 +1,10 @@
-**Web:**            .php,.html,.htm,.asp,.aspx,.jsp,.js  
+**Web:**            .php,.html,.htm,.asp,.aspx,.jsp,.js,.py,.rb,.pl,.cgi,.cfm,.groovy,.cs,.vb,.ts,.mjs,.cjs,.graphql,.gql,.prisma  
 **Backup/Old:**     .bak,.old,.backup,.orig,.tmp,.swp,.swo  
-**Config:**	.env,.config,.conf,.ini,.yaml,.yml,.json,.xml,.web.config  
-**Database:**	.sql,.db,.sqlite,.sqlite3  
+**Config:**	.env,.config,.conf,.ini,.yaml,.yml,.json,.xml,.web.config,.dockerignore  
+**Database:**	.sql,.db,.sqlite,.sqlite3,.dump,.dmp,.export,.bson,.mdb,.ldb  
 **Logs:**       	.log,.txt,.debug  
-**Compact:**	.zip,.rar,.7z,.tar,.tar.gz,.gz,.bz2  
+**Compact:**	.zip,.rar,.7z,.tar,.gz,.bz2  
 **Documents:**	    .pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx  
 **Source Map:**	    .map  
 **Others:**	        .inc,.md,.git,.svn,.htaccess,.htpasswd  
+**Keys/Certificates**: .pem,.key,.crt,.cer,.p12,.pfx,.pub,.asc,.gpg,.kdbx  
