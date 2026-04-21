@@ -3,7 +3,7 @@
 **Config:**	.env,.config,.conf,.ini,.yaml,.yml,.json,.xml,.web.config,.dockerignore  
 **Database:**	.sql,.db,.sqlite,.sqlite3,.dump,.dmp,.export,.bson,.mdb,.ldb  
 **Logs:**       	.log,.txt,.debug  
-**Compact:**	.zip,.rar,.7z,.tar,.gz,.bz2  
+**Compressed:**	.zip,.rar,.7z,.tar,.gz,.bz2  
 **Documents:**	    .pdf,.doc,.docx,.xls,.xlsx,.ppt,.pptx  
 **Source Map:**	    .map  
 **Others:**	        .inc,.md,.git,.svn,.htaccess,.htpasswd  
